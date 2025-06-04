@@ -1,0 +1,7 @@
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\obj\Debug\csharppractice.csproj.AssemblyReference.cache
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\obj\Debug\csharppractice.csproj.CoreCompileInputs.cache
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\bin\Debug\csharppractice.exe.config
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\bin\Debug\csharppractice.exe
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\bin\Debug\csharppractice.pdb
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\obj\Debug\csharppractice.exe
+C:\Users\finan\OneDrive\Desktop\Suraj\APICRUD\csharppractice\csharppractice\obj\Debug\csharppractice.pdb

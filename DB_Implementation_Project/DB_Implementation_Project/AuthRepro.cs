@@ -1,0 +1,7 @@
+﻿interface AuthRepro
+{
+    void InsertUser();
+
+
+
+}
